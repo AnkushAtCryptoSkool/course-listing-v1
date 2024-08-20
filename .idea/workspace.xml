@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d467288d-4864-447a-8fe3-c8fcac09556b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2krzFngq3ke9JRntmd28fxiYSPK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CourseListingApplication.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main/crypto",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/coding/course-listing"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.iit.bombay.courses.course_listing.repository" />
+      <recent name="com.iit.bombay.courses.course_listing.service.impl" />
+      <recent name="com.iit.bombay.courses.course_listing.entity" />
+      <recent name="com.iit.bombay.courses.course_listing.service" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\coding\course-listing\course-listing" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.iit.bombay.courses.course_listing.controller" />
+      <recent name="com.iit.bombay.courses.course_listing.service.impl" />
+      <recent name="com.iit.bombay.courses.course_listing.service" />
+      <recent name="com.iit.bombay.courses.course_listing.repository" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CourseListingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iit.bombay.courses.course_listing.CourseListingApplication" />
+      <module name="course-listing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iit.bombay.courses.course_listing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CourseListingApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d467288d-4864-447a-8fe3-c8fcac09556b" name="Changes" comment="" />
+      <created>1724056381424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724056381424</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit (base setup of project)">
+      <option name="closed" value="true" />
+      <created>1724056554582</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724056554582</updated>
+    </task>
+    <task id="LOCAL-00002" summary="all apis for course and course listing apis">
+      <option name="closed" value="true" />
+      <created>1724099126044</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724099126044</updated>
+    </task>
+    <task id="LOCAL-00003" summary="github actions change build fix">
+      <option name="closed" value="true" />
+      <created>1724102429806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724102429807</updated>
+    </task>
+    <task id="LOCAL-00004" summary="github actions change build fix">
+      <option name="closed" value="true" />
+      <created>1724102598502</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724102598502</updated>
+    </task>
+    <task id="LOCAL-00005" summary="github actions change build fix">
+      <option name="closed" value="true" />
+      <created>1724102756257</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724102756257</updated>
+    </task>
+    <task id="LOCAL-00006" summary="github actions change build fix">
+      <option name="closed" value="true" />
+      <created>1724103391047</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724103391047</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit (base setup of project)" />
+    <MESSAGE value="all apis for course and course listing apis" />
+    <MESSAGE value="github actions change build fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="github actions change build fix" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/course-listing/src/main/java/com/iit/bombay/courses/course_listing/controller/CourseController.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/course-listing/src/main/java/com/iit/bombay/courses/course_listing/service/impl/CourseServiceImpl.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/course-listing/src/main/java/com/iit/bombay/courses/course_listing/service/impl/CourseDeliveryServiceImpl.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/course-listing/src/main/java/com/iit/bombay/courses/course_listing/controller/CourseController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/course-listing/src/main/java/com/iit/bombay/courses/course_listing/controller/CourseController.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/course-listing/src/main/java/com/iit/bombay/courses/course_listing/service/impl/CourseDeliveryServiceImpl.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/course-listing/src/main/java/com/iit/bombay/courses/course_listing/controller/CourseDeliveryController.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/course-listing/src/main/java/com/iit/bombay/courses/course_listing/service/impl/CourseDeliveryServiceImpl.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/course-listing/src/main/java/com/iit/bombay/courses/course_listing/controller/CourseDeliveryController.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

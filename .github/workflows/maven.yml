@@ -6,9 +6,13 @@ on:
   pull_request:
     branches: [ "main/crypto" ]
 
+permissions:
+  contents: read
+  issues: write
+  security-events: write
+
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     services:

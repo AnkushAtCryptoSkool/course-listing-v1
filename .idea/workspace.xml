@@ -24,9 +24,16 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2krzFngq3ke9JRntmd28fxiYSPK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -34,10 +41,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.CourseListingApplication.executor": "Debug",
+    "Application.CourseListingApplication.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main/crypto",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/coding/course-listing"
   },
@@ -66,7 +72,7 @@
       <recent name="com.iit.bombay.courses.course_listing.repository" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CourseListingApplicationTests.contextLoads">
     <configuration name="CourseListingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.iit.bombay.courses.course_listing.CourseListingApplication" />
       <module name="course-listing" />
@@ -80,8 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CourseListingApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="course-listing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.iit.bombay.courses.course_listing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.iit.bombay.courses.course_listing" />
+      <option name="MAIN_CLASS_NAME" value="com.iit.bombay.courses.course_listing.CourseListingApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CourseListingApplicationTests.contextLoads" />
         <item itemvalue="Application.CourseListingApplication" />
       </list>
     </recent_temporary>

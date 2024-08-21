@@ -75,6 +75,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>course-listing-v1</finalName>
 	</build>
 
 </project>
